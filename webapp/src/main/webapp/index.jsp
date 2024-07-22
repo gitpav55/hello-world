@@ -31,9 +31,7 @@
     <p>Already do you have an tomcat account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
- <h1> Thankyou, second build </h1>
-  <h1> Thankyou, POLL SCM BUILD </h1>
+<h1> I have edited </h1>
 
 
   
